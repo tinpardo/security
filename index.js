@@ -1,7 +1,7 @@
 //index.js
 
 function security() {
-  return "Security Information Tools";
+  console.log("Security Information Tools");
 }
 
 module.exports = security;

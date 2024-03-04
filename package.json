@@ -1,0 +1,24 @@
+{
+  "name": "tinpardo",
+  "version": "1.0.1",
+  "description": "Set of security information tools",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tinpardo/security.git"
+  },
+  "keywords": [
+    "Security",
+    "tools"
+  ],
+  "author": "Andres Pardo <tinpardo@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tinpardo/security/issues",
+    "email": "tinpardo@gmail.com"
+  },
+  "homepage": "https://github.com/tinpardo/security#readme"
+}
